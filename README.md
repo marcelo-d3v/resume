@@ -1,6 +1,6 @@
 # Marcelo Rodrigues dos Santos
 ### Contato
-LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)
+LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)<br>
 GitHub: (www.github.com/marcelo-d3v)
 
 ### Resumo profissional
