@@ -4,7 +4,7 @@ LinkedIn: (www.linkedin.com/in/marcelo-rodrigues-dos-santos-759135b7)<br>
 GitHub: (www.github.com/marcelo-d3v)
 
 ### Resumo profissional
-Analista desenvolvedor com experiência front-end e back-end, com foco em programação web e sistemas corporativos.
+Analista de sistemas com experiência front-end e back-end, com foco em programação web e sistemas corporativos.
 
 ### Formação
 Bacharelado em **Sistemas de Informação**<br>
